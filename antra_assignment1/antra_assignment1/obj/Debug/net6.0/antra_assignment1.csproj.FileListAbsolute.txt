@@ -1,0 +1,15 @@
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\bin\Debug\net6.0\antra_assignment1.exe
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\bin\Debug\net6.0\antra_assignment1.deps.json
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\bin\Debug\net6.0\antra_assignment1.runtimeconfig.json
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\bin\Debug\net6.0\antra_assignment1.dll
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\bin\Debug\net6.0\antra_assignment1.pdb
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\obj\Debug\net6.0\antra_assignment1.csproj.AssemblyReference.cache
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\obj\Debug\net6.0\antra_assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\obj\Debug\net6.0\antra_assignment1.AssemblyInfoInputs.cache
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\obj\Debug\net6.0\antra_assignment1.AssemblyInfo.cs
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\obj\Debug\net6.0\antra_assignment1.csproj.CoreCompileInputs.cache
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\obj\Debug\net6.0\antra_assignment1.dll
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\obj\Debug\net6.0\refint\antra_assignment1.dll
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\obj\Debug\net6.0\antra_assignment1.pdb
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\obj\Debug\net6.0\antra_assignment1.genruntimeconfig.cache
+D:\antra_training\training\c#\assignment1\antra_assignment1\antra_assignment1\obj\Debug\net6.0\ref\antra_assignment1.dll
