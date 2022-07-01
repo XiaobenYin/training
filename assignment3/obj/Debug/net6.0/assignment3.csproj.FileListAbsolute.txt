@@ -1,0 +1,15 @@
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\obj\Debug\net6.0\assignment3.csproj.AssemblyReference.cache
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\obj\Debug\net6.0\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\obj\Debug\net6.0\assignment3.AssemblyInfoInputs.cache
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\obj\Debug\net6.0\assignment3.AssemblyInfo.cs
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\obj\Debug\net6.0\assignment3.csproj.CoreCompileInputs.cache
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\bin\Debug\net6.0\assignment3.exe
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\bin\Debug\net6.0\assignment3.deps.json
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\bin\Debug\net6.0\assignment3.runtimeconfig.json
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\bin\Debug\net6.0\assignment3.dll
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\bin\Debug\net6.0\assignment3.pdb
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\obj\Debug\net6.0\assignment3.dll
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\obj\Debug\net6.0\refint\assignment3.dll
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\obj\Debug\net6.0\assignment3.pdb
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\obj\Debug\net6.0\assignment3.genruntimeconfig.cache
+D:\antra_training\training\c#\assignment3\assignment3\assignment3\obj\Debug\net6.0\ref\assignment3.dll
