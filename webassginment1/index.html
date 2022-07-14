@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Tables</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div>
+        <h1>Problem 1 - Simple Table</h1>
+        <img src="https://antra.com/wp-content/uploads/2021/02/2021-02-18-2.png" alt="Antra" width="200">
+        <table class="table1" style="width:60%">
+            <tr>
+                <td style="width:150px">
+                    <img src="https://antra.com/wp-content/uploads/2017/10/if_Graph-Magnifier_379472-150x150.png"
+                        alt="img">
+                </td>
+                <td style="width:150px">
+                    <img src="https://antra.com/wp-content/uploads/2017/10/if_Studio_1562691-150x150.png" alt="img">
+                </td>
+                <td style="width:150px">
+                    <img src="https://antra.com/wp-content/uploads/2017/10/if_law_iconsArtboard_1_copy_3_2393031-150x150.png"
+                        alt="img">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h2>Business Advisory Services</h2>
+                </td>
+                <td>
+                    <h2>Technology Services</h2>
+                </td>
+                <td>
+                    <h2>Professional Services</h2>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>
+                        Our business advisory services assist our clients to align IT capabilities with their business
+                        needs to drive growth and productivity. Hence deriving a greater value from IT! We continually
+                        seek better ways of collaborating with our clients, work more cohesively to understand their
+                        business issues.
+                    </p>
+                </td>
+                <td>
+                    <p>
+                        Harness the power of emerging technologies while leveraging most out of the legacy IT. Antra
+                        offers full spectrum of technology services for business to achieve its business goals .Our
+                        differentiation starts with core fundamental elements required for your technology enablement.
+                    </p>
+                </td>
+                <td>
+                    <p>
+                        Our motto is to bridge skill gap, and foster on agile technologies to support growth of various
+                        organizations! Antra’s full range of workforce solutions and service delivery models equips our
+                        clients with the right people, skills and competencies required to get IT done.
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <h1>Problem 2 - Exam Results</h1>
+        <table border="3" style="width:20%">
+            <thead>
+                <th colspan=4>Web fundamental exam results</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>
+                        N
+                    </th>
+                    <th>
+                        First Name
+                    </th>
+                    <th>Last Name</th>
+                    <th>Score</th>
+                </tr>
+                <tr>
+                    <td>01</td>
+                    <td>Gosho</td>
+                    <td>Goshev</td>
+                    <td>500</td>
+                </tr>
+                <tr>
+                    <td>02</td>
+                    <td>Tosho</td>
+                    <td>Toshev</td>
+                    <td>500</td>
+                </tr>
+                <tr>
+                    <td>03</td>
+                    <td>Pesho</td>
+                    <td>Pesho</td>
+                    <td>500</td>
+                </tr>
+                <tr>
+                    <td>04</td>
+                    <td>Gencho</td>
+                    <td>Genchev</td>
+                    <td>500</td>
+                </tr>
+                <tr>
+                    <td>05</td>
+                    <td>Draga</td>
+                    <td>Draganova</td>
+                    <td>500</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan=4 align="right">Average score from 05 participants: 500</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <div>
+        <h1>Problem 3 - Nested Tables</h1>
+        <table border="3">
+            <tr>
+                <td>
+                    <img src="https://antra.com/wp-content/uploads/2021/02/2021-02-18-2.png" alt="Antra" width="200">
+                <td>
+                    <table border="3">
+                        <tr>
+                            <th>Software</th>
+                        </tr>
+                        <tr>
+                            <th>Developer</th>
+                        </tr>
+                    </table>
+                </td>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <h1>Problem 4 - Life in Antra</h1>
+        <table border="3" style="width: 25%;">
+            <tr>
+                <th colspan=4>Antra Life</th>
+            </tr>
+            <tr>
+                <td colspan=2 align="left">Google</td>
+                <td colspan=2 align="right">GitHub</td>
+            </tr>
+            <tr>
+                <td>FB</td>
+                <td>GMail</td>
+                <td>YouTube</td>
+                <td>2048</td>
+            </tr>
+            <tr>
+                <td>Food</td>
+                <td colspan=2>Game</td>
+                <td>
+                    <table border="3">
+                        <tr>
+                            <td>Social Life</td>
+                        </tr>
+                        <tr>
+                            <td>Sleep</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan=3 align="right">
+                    Beer >
+                </td>
+                <td align="left">WC</td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <h1>Problem 5 - "Life in Antra" Keyboard</h1>
+        <table border="3" style="width: 25%;">
+            <tr>
+                <th colspan=4>Antra Life</th>
+            </tr>
+            <tr>
+                <td colspan=2 align="center">
+                    <button class="btn" onclick="window.location.href='https://www.google.com/'">Google</button>
+                </td>
+                <td colspan=2 align="center">
+                    <button class="btn" onclick="window.location.href='https://github.com/'">GitHub</button>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <button class="btn" onclick="window.location.href='https://www.facebook.com/'">FB</button>
+                </td>
+                <td align="center"><button class="btn" onclick="window.location.href='https://www.facebook.com/'">GMail</button></td>
+                <td align="center"><button class="btn" onclick="window.location.href='https://www.facebook.com/'">YouTube</button></td>
+                <td align="center"><button class="btn" onclick="window.location.href='https://www.facebook.com/'">2048</button></td>
+            </tr>
+            <tr>
+                <td align="center"><button class="btn" onclick="window.location.href='https://www.facebook.com/'">Food</button></td>
+                <td colspan=2 align="center"><button class="btn" onclick="window.location.href='https://www.facebook.com/'">Game</button></td>
+                <td>
+                    <table border="3">
+                        <tr>
+                            <td align="center"><button class="btn" onclick="window.location.href='https://www.facebook.com/'">Social Life</button></td>
+                        </tr>
+                        <tr>
+                            <td align="center"><button class="btn" onclick="window.location.href='https://www.facebook.com/'">Sleep</button></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan=3 align="right">
+                    <button class="btn" onclick="window.location.href='https://www.facebook.com/'">Beer></button>
+                </td>
+                <td align="center"><button class="btn" onclick="window.location.href='https://www.facebook.com/'">WC</button></td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>
