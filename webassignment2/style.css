@@ -1,0 +1,216 @@
+/* Problem 1 */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+.header {
+    overflow: hidden;
+    background-color: rgba(16, 33, 100, 0.876);
+    padding: 20px 10px;
+}
+
+.header a {
+    float: left;
+    color: rgb(240, 228, 228);
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 25px;
+    border-radius: 5px;
+}
+
+.headera.logo {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.header a:hover {
+    background-color: grey;
+    color: black;
+}
+
+.headera.active {
+    background-color: green;
+    color: white;
+}
+
+.header-bottom {
+    float: right;
+}
+
+@media screen and (max-width: 500px) {
+    .header a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+
+    .header-right {
+        float: none;
+    }
+}
+
+/* Problem 2 */
+.col_white_amrc { color:#FFF;}
+footer { width:100%; background-color:#263238; min-height:250px; padding:10px 0px 25px 0px ;}
+.pt2 { padding-top:40px ; margin-bottom:20px ;}
+footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
+.mb10 { padding-bottom:15px ;}
+.footer_ul_amrc { margin:0px ; list-style-type:none ; font-size:14px; padding:0px 0px 10px 0px ; }
+.footer_ul_amrc li {padding:0px 0px 5px 0px;}
+.footer_ul_amrc li a{ color:#CCC;}
+.footer_ul_amrc li a:hover{ color:#fff; text-decoration:none;}
+.fleft { float:left;}
+.padding-right { padding-right:10px; }
+
+.footer_ul2_amrc {margin:0px; list-style-type:none; padding:0px;}
+.footer_ul2_amrc li p { display:table; }
+.footer_ul2_amrc li a:hover { text-decoration:none;}
+.footer_ul2_amrc li i { margin-top:5px;}
+
+.bottom_border { border-bottom:1px solid #323f45; padding-bottom:20px;}
+.foote_bottom_ul_amrc {
+	list-style-type:none;
+	padding:0px;
+	display:table;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+}
+.foote_bottom_ul_amrc li { display:inline;}
+.foote_bottom_ul_amrc li a { color:#999; margin:0 12px;}
+
+.social_footer_ul { display:table; margin:15px auto 0 auto; list-style-type:none;  }
+.social_footer_ul li { padding-left:20px; padding-top:10px; float:left; }
+.social_footer_ul li a { color:#CCC; border:1px solid #CCC; padding:8px;border-radius:50%;}
+.social_footer_ul li i {  width:20px; height:20px; text-align:center;}
+
+/* Problem 3 */
+.prob3-header {
+    background-color: rgba(24, 63, 141, 0.878);
+    padding: 45px;
+    padding-right: 100px;
+    padding-top: 10px;
+}
+
+.news{
+    position: top;
+    background-color: rgb(223, 220, 220);
+    padding: 3% 3% 3% 21%;
+    float: left;
+}
+
+.news-section{
+    width: 300px;
+    height: 350px;
+    background: white;
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.news button{
+    background: lightskyblue;
+}
+
+/* Problem 4 */
+body{
+    margin: 0;
+    font-family: Arial;
+}
+#navigation{
+    width: 100%;
+    background-color: lightgray;
+}
+#navigation th{
+    padding: 12px;
+}
+#navigation a{
+    text-decoration: none;
+    color: black;
+    padding: 12px;
+}
+.navigation-content{
+    width: 170px;
+}
+#MainBody{
+    overflow: hidden;
+    padding: 4em;
+}
+
+#section1{
+    float: left;
+    width: 70%;
+    border-style: groove;
+    padding: 1em;
+}
+#section1 b{
+    color: rgb(134, 202, 101);
+    font-size: 36px;
+}
+
+#section2{
+    float: left;
+    width: 70%;
+    border-style: groove;
+    padding: 1em;
+    margin-top: 1em;
+}
+#section2 b{
+    color: rgb(134, 202, 101);
+    font-size: 36px;
+}
+
+#News{
+    background-color: lightgray;
+    float: right;
+    padding: 1em;
+    border-style: groove; 
+    width: 15%; 
+    height: 350px; 
+}
+
+#News article{
+    padding: 1em;   
+}
+#News p{
+    margin: 0px;   
+}
+
+#News-sections{
+    color: rgb(134, 202, 101);
+    font-size: 36px;
+}
+
+#Messages span{
+
+    color: rgb(134, 202, 101);
+    font-size: 36px;
+}
+
+#Messages{
+    height: 350px;
+    float: right;
+    border-style: groove;
+    padding: 1em;
+    width: 15%;  
+    margin-top: 1em;
+}
+
+#footer{
+    background-color: rgb(134, 202, 101);
+    height: 100px;
+}
+#footer p{
+    margin: 0px;
+    text-align: center;
+    
+}
