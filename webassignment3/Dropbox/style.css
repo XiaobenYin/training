@@ -1,0 +1,27 @@
+.menu {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.icon {
+    margin-left: 250px;
+    margin-right: 250px;
+    display: flex;
+}
+
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.h-custom {
+height: calc(50% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+}
